@@ -64,6 +64,7 @@ ul{
 
 table{
     margin-top: 30px;
+    margin-left: 5px;
     border-collapse: collapse;
 }
 
@@ -88,4 +89,34 @@ td{
 #second-paragraph{
     margin-top: 15px;
     font-size: 18px;
+}
+
+footer{
+    margin-top: 40px;
+    margin-left: 5px;
+}
+
+h4{
+    color: grey;
+}
+
+.footer-image{
+    margin-top: 20px;
+}
+
+#monitor{
+    width: 250px;
+    height: 250px;
+    background-image: url('../img 2/monitor.jpg');
+    color: white;
+    margin-bottom: 15px;
+
+}
+
+#graph{
+    width: 250px;
+    height: 250px;
+    background-image: url('../img 2/graph.jpg');
+    color: white;
+
 }
