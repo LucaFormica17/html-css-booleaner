@@ -15,3 +15,32 @@
     height: 60px;
     margin-top: 40px;
 }
+
+main{
+    margin-top: 20 px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+#subtitle{
+    color: grey;
+    font-size: 15px;
+}
+
+#author{
+    color: aqua;
+}
+
+#date{
+    font-size: 10px;
+}
+
+.Tim-image{
+    margin: 20px 0px;
+}
+
+.caption{
+    font-size: 10px;
+}
